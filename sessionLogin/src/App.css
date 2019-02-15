@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #c9c3c3;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color:#469FD3;
+}
+
+.navbar-default .navbar-nav > li > a:focus {
+  color:rgb(145, 211, 70);
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a,.navbar-default .navbar-nav .open .dropdown-menu {
+  background-color:#3C4146;
+  color:#ffffff;
+} 
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,.navbar-default .navbar-nav .open .dropdown-menu {
+  color:#469FD3;
+} 
+
+.bg{
+  background-color: #307762;
+  color:whitesmoke
+}
+
+input{
+  margin-bottom:10px;
+}
+
+.red-border{
+  border: red thin solid;
+}
+
+.slick-slider img{
+  margin: 0 auto;
+}
+
+.slick-slider{
+  text-align: center;
+}
+
+/* .slick-slider h3{
+  vertical-align: middle;
+} */
